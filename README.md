@@ -18,7 +18,4 @@ Screenshot:
 
 Demo video:
 
-
-<video controls>
-  <source src="https://user-images.githubusercontent.com/1209810/266794861-06436df2-fa0b-40c7-909c-576d99bb7fc9.mp4" type="video/mp4">
-</video>
+[Video](https://github.com/paradite/16x-prompt-releases/issues/1)
