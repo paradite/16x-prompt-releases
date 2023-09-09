@@ -10,12 +10,12 @@ Releases for 16x Prompt
 
 ## Demo
 
-Screenshot:
+Screenshot
 
 <p float="left">
   <img src="https://github.com/paradite/16x-prompt-releases/blob/main/screenshots/screenshot.png?raw=true" alt="screenshot"/>
 </p>
 
-Demo video:
+Demo Video
 
-[Video](https://github.com/paradite/16x-prompt-releases/issues/1)
+https://github.com/paradite/16x-prompt-releases/assets/1209810/06436df2-fa0b-40c7-909c-576d99bb7fc9
