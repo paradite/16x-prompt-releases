@@ -1,3 +1,24 @@
 # 16x-prompt-releases
 
-Releases for 16x Prompt.
+Releases for 16x Prompt
+
+## Features
+
+- Easily add code context in prompt and feed to ChatGPT
+- Developer-friendly desktop app, no complicated setup
+- Works with existing ChatGPT Plus subscription to access GPT-4
+
+## Demo
+
+Screenshot:
+
+<p float="left">
+  <img src="https://github.com/paradite/16x-prompt-releases/blob/main/screenshots/screenshot.png?raw=true" alt="screenshot"/>
+</p>
+
+Demo video:
+
+
+<video controls>
+  <source src="https://user-images.githubusercontent.com/1209810/266794861-06436df2-fa0b-40c7-909c-576d99bb7fc9.mp4" type="video/mp4">
+</video>
